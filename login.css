@@ -1,0 +1,105 @@
+
+body{
+    background-color: black ;
+}
+
+.navbar{
+    background-color:transparent!important;
+    color: #ffffff !important;
+    padding-left: 5%;
+    padding-right:5%;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.navbar-text{
+    color: #ffffff !important;
+    
+}
+.navbar-toggler{
+    color: #ffffff !important;
+    background-color: #ffffff;
+}
+.firstpart{
+    width: 100%;
+    height: auto;
+    background:url(./images/thirdimages.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+    .formbox{
+
+        background-color: black;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100vh;
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-top: 8rem;
+    }
+
+
+.label{
+    color: white;
+
+}
+.primary {
+background-color: greenyellow;
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 0.3rem;
+padding-bottom: 0.3rem;
+border-radius: 0.4rem;
+margin-top: 3rem;
+
+}
+.clock{
+    padding-top: 1.3rem;
+}
+input{
+    color: blue !important;
+}
+::placeholder{
+    color: rgb(214, 203, 203)!important;
+}
+
+
+@media (min-width: 567px) {
+
+}
+
+@media (min-width: 768px) {
+   
+    .formbox{
+
+        background-color: black;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100vh;
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-top: 3rem;
+    }
+
+    
+}
+
+@media (min-width: 992px) {
+    
+}
+
+@media (min-width: 1200px) {
+  
+    
+}
+@media (min-width: 1400px) {
+    
+}
