@@ -1,0 +1,48 @@
+body{
+    background-image: url(./images/Herosectionbg.png);
+} 
+
+.navbar{
+    background-color: #090909 !important;
+    color: #ffffff !important;
+    padding-left: 5%;
+    padding-right:5%;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.navbar-text{
+    color: #ffffff !important;
+}
+.seat{
+    background-color: yellowgreen;
+    border-radius: 0.5rem;
+  border-color: yellowgreen;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    font-weight: 600;
+    margin-left: 7%;
+    margin-bottom: 9vh;
+}
+
+#boringgods{
+    color: white;
+    padding-left: 7%;
+    padding-top: 3vh;
+} 
+.test{
+    width: 90%;
+    padding-left: 7%;
+    color: white;
+    font-size: 1rem;
+    gap: 3rem;
+}
+

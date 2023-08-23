@@ -39,7 +39,7 @@ body{
 }
 
 .imagessss{
-    padding-left: 14rem;
+    
     padding-bottom: 15rem;
 
     }
@@ -112,8 +112,246 @@ p{
 }
 #corner{
     width: 12rem;
+
+
+}
+@media  (min-width: 200px) {
+
+       
+.navbar{
+    background-color: #090909 !important;
+    color: #ffffff !important;
+    padding-left: 5%;
+    padding-right:5%;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.navbar-text{
+    color: #ffffff !important;
+    
+}
+.navbar-toggler{
+ 
+    background-color: #000000 !important;
+    
+}
+.herosection{
+    width: 100;
+   height: auto;
+    background-image: url(./images/Herosectionbg.png);
+    background-size: cover;
+    padding-left: 6%;
+    padding-right:6%;
+    padding-top: 3rem;
+    
 }
 
+.imagessss{
+    
+    padding-bottom: 15rem;
+
+    }
+.text{
+    width: 93%;
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 2.7rem;
+}
+.newtext{
+    color: white;
+}
+.greenbutton{
+    margin-left: 0rem;
+    background-color: rgb(158, 245, 8) !important;
+    margin-top:2rem;
+}
+
+.imageslist{
+    
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2rem;
+    
+}
+h4 {
+    color: white;
+
+    
+}
+p{
+ color: white; 
+ font-size: 0.8rem;
+ line-height: 1.3rem;
+}
+
+.secondimages{
+    
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2rem;
+    
+}
+.area{
+   background-color: greenyellow !important;
+   margin-top: 0.2rem;
+   padding-left: 0.6rem;
+   padding-right: 0.6rem;
+   padding-top: 0.1rem;
+   border-radius: 0.3rem;
+   border-color: greenyellow;
+   padding-bottom: 0.1;
+}
+.head{
+    padding-left: 5rem;
+    padding-top: 2rem;
+    padding-right: 5rem;
+}
+.firsthead{
+    font-size: 2rem;
+    color: greenyellow !important;
+    font-weight: bold;
+}
+.carddetails{
+    padding-top:2rem;
+}
+.d-flex{
+    flex-direction:column;
+    display: inline !important;
+}
+#corner{
+    width: 8rem;
+    padding-top: 2rem;
+
+
+}
+}
+ 
+
+@media  (min-width: 300px) {
+
+       
+.navbar{
+    background-color: #090909 !important;
+    color: #ffffff !important;
+    padding-left: 5%;
+    padding-right:5%;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.navbar-text{
+    color: #ffffff !important;
+    
+}
+.navbar-toggler{
+ 
+    background-color: #000000 !important;
+    
+}
+.herosection{
+    width: 100;
+   height: 130vh;
+    background-image: url(./images/Herosectionbg.png);
+    background-size: cover;
+    padding-left: 6%;
+    padding-right:6%;
+    padding-top: 3rem;
+    
+}
+
+.imagessss{
+    
+    padding-bottom: 15rem;
+
+    }
+.text{
+    width: 93%;
+    color: greenyellow !important;
+    font-weight: bold;
+    font-size: 2.7rem;
+}
+.newtext{
+    color: white;
+}
+.greenbutton{
+    margin-left: 0rem;
+    background-color: rgb(158, 245, 8) !important;
+    margin-top:2rem;
+}
+
+.imageslist{
+    
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2rem;
+    
+}
+h4 {
+    color: white;
+
+    
+}
+p{
+ color: white; 
+ font-size: 0.8rem;
+ line-height: 1.3rem;
+}
+
+.secondimages{
+    
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 2rem;
+    
+}
+.area{
+   background-color: greenyellow !important;
+   margin-top: 0.2rem;
+   padding-left: 0.6rem;
+   padding-right: 0.6rem;
+   padding-top: 0.1rem;
+   border-radius: 0.3rem;
+   border-color: greenyellow;
+   padding-bottom: 0.1;
+}
+.head{
+    padding-left: 5rem;
+    padding-top: 2rem;
+    padding-right: 5rem;
+}
+.firsthead{
+    font-size: 2rem;
+    color: greenyellow !important;
+    font-weight: bold;
+}
+.carddetails{
+    padding-top:2rem;
+}
+.d-flex{
+    flex-direction:column;
+    display: inline !important;
+}
+#corner{
+    width: 8rem;
+    padding-top: 2rem;
+
+
+}
+}
+ 
 
 
 
@@ -155,7 +393,7 @@ p{
     }
 
     .imagessss{
-    padding-left: 14rem;
+    padding-left: rem;
     padding-bottom: 15rem;
 
     }
@@ -216,6 +454,7 @@ padding-bottom: 20vh;
  
 #corner{
     width: 8rem;
+    
     
 }
 } 
